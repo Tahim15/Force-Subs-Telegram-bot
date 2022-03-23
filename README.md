@@ -10,6 +10,8 @@
 
 ## Deploy
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LwDY2H?referralCode=Tahim)
+
 ### Installation
 - Clone this repo
 ```
